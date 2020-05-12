@@ -1,0 +1,7 @@
+C:\Users\Racki Kamil\source\repos\soap\SoapTest\bin\Debug\SoapTest.exe.config
+C:\Users\Racki Kamil\source\repos\soap\SoapTest\bin\Debug\SoapTest.exe
+C:\Users\Racki Kamil\source\repos\soap\SoapTest\bin\Debug\SoapTest.pdb
+C:\Users\Racki Kamil\source\repos\soap\SoapTest\obj\Debug\SoapTest.csproj.CoreCompileInputs.cache
+C:\Users\Racki Kamil\source\repos\soap\SoapTest\obj\Debug\SoapTest.exe
+C:\Users\Racki Kamil\source\repos\soap\SoapTest\obj\Debug\SoapTest.pdb
+C:\Users\Racki Kamil\source\repos\soap\SoapTest\obj\Debug\SoapTest.csprojAssemblyReference.cache
